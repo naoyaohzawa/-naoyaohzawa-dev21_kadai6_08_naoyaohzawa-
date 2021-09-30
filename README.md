@@ -21,7 +21,6 @@ bootsrapを利用してみた。確かに簡単に使えるので便利だった
 
 
 参考にしたURL
-https://www.youtube.com/watch?v=uCvPMe5wsNk&t=129s
 
 
 権限
